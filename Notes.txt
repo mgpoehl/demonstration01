@@ -1,0 +1,23 @@
+github
+
+mgpoehl
+Sh…1
+
+Enroll in GIT: From Beginner to Fearless
+mat.poehler@gmail.com
+Pass…1
+Your order ID: 9096378
+
+https://github.com/mgpoehl/demonstration01.git
+
+git pull origin master
+
+git fetch origin
+
+git checkout - b  FeatureBranch02
+
+force delete git branch -D FeatureBranch02
+
+git status -s
+
+git add .
